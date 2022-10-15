@@ -1,4 +1,4 @@
-Hello World! 👋 My name is Jana Gileza
+Hello World! 👋 My name is Jana Marie Gileza
 ============================
 
 Game Developer and Designer
