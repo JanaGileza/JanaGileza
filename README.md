@@ -17,7 +17,7 @@ I've been creating Game Art and Game Concepts for 6 years, and have been program
 * 📁  My resume can be found [here!](https://docs.google.com/document/d/1kybNPpz63SpnxZbH0z5zAtxNYnzXEo0I5VNRCDw4pv0/edit?usp=sharing)
 
 <h3 align="left">Connect with me here:</h3>
-<p align="left"> <a href="https://www.github.com/JanaGileza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jana_marie166" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jana-gileza-652b18253/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/JanaGileza" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jana_marie166" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jana-m-gileza/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
