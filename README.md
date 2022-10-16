@@ -13,7 +13,7 @@ I've been creating Game Art and Game Concepts for 6 years, and have been program
 * 🤝  I'm open to collaborating on Game Development, Game Design, Programming Projects
 * ⚡  pronouns: she/they
 * 🔭  I’m currently working on a Game Dev class project... ["Mystery in Wonderland"](https://github.com/JanaGileza/GameDesignArt/tree/main/Mystery%20in%20Wonderland)
-* 🎨  I've started designing a personal Game Development project... ["Until Proven Guilty"](https://github.com/JanaGileza/GameDesign_UntilProvenGuilty)
+* 🎨  I've started designing a personal Game Development project... ["Seraph in Mortal Blood"](https://github.com/JanaGileza/GameDesignPortfolio_SeraphInMortalBlood)
 * 📁  My resume can be found [here!](https://docs.google.com/document/d/1kybNPpz63SpnxZbH0z5zAtxNYnzXEo0I5VNRCDw4pv0/edit?usp=sharing)
 
 <h3 align="left">Connect with me here:</h3>
