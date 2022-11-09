@@ -14,6 +14,7 @@ I've been creating Game Art and Game Concepts for 6 years, and have been program
 * ⚡  pronouns: she/they
 * 🔭  I’m currently working on a Game Dev class project... ["Mystery in Wonderland"](https://github.com/JanaGileza/GameDesignArt/tree/main/Mystery%20in%20Wonderland)
 * 🎨  I've started designing a personal Game Development project... ["Seraph in Mortal Blood"](https://github.com/JanaGileza/GameDesignPortfolio_SeraphInMortalBlood)
+* 👽  I just participated in the Fall UNCC 49-hour Game Jam as a Game Designer, responsible for art direction and implementation as well as lead in game direction and level design! See the turned in product here: ["Little Guy Meets World"](https://github.com/mianjoto/little-guy-meets-world)
 * 📁  My resume can be found [here!](https://docs.google.com/document/d/1kybNPpz63SpnxZbH0z5zAtxNYnzXEo0I5VNRCDw4pv0/edit?usp=sharing)
 
 <h3 align="left">Connect with me here:</h3>
