@@ -9,7 +9,7 @@ I've been creating Game Art and Game Concepts for 6 years, and have been program
 * 🌍  I'm based in Charlotte, North Carolina
 * 🌆  I'm from the Bronx, New York
 * ✉️  You can contact me at [janam.gileza@gmail.com](mailto:janam.gileza@gmail.com)
-* 🧠  I'm currently learning GML and C#
+* 🧠  I'm currently learning GML, C#, and C++
 * 🤝  I'm open to collaborating on Game Development, Game Design, Programming Projects
 * ⚡  pronouns: she/they
 * 🔭  I’m currently working on a Game Dev class project... ["Mystery in Wonderland"](https://github.com/JanaGileza/GameDesignArt/tree/main/Mystery%20in%20Wonderland)
